@@ -12,7 +12,7 @@ I’m a product-focused software engineer specializing in front-end development,
 
 :art: I collaborate on projects for fun at <a href="https://www.thebitfoundry.net">@thebitfoundry</a>
 
-:globe_with_meridians: You can send me a message <a href="mailto:jessica@thebitfoundry.net" target="_blank"> here</a>
+<!-- :globe_with_meridians: You can send me a message <a href="mailto:jessica@thebitfoundry.net" target="_blank"> here</a> -->
 
 ## Current Stack :zap:
 
