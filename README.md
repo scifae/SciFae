@@ -1,16 +1,16 @@
-## <h3 align="center">Hey! I'm <a href="https://www.jessicajane.org"> Jess!</a></h3>
+## <h3 align="center">Hi!</h3>
 <p align="center">
-  <a href="https://jessicajane.org" rel="nofollow">Website</a> •
+  <a href="https://jessicajane.org" rel="nofollow">About</a> •
   <a href="https://www.linkedin.com/in/jessica-k/" rel="nofollow">LinkedIn</a>
 </p>
 
-I’m a product-focused software engineer specializing in front-end development, system design, data analysis and data visualization. I love user centric design, and building products that solve problems. :earth_africa: I’m passionate about how data impacts enterprise and the individual, and the interface of machine and biological intelligence. :hatched_chick: I am always learning more about programming, IoT, and design.
+I’m a product-focused software engineer and product designer specializing in front-end development, system design, data analysis and data visualization. I love user centric design, and building products that solve real problems. :earth_africa: I’m passionate about how data impacts enterprise and the individual, and the interface of human, machine and biological intelligence. 
 
-:briefcase: I'm currently working at a startup building SaaS solutions with a focus on finance and supply-chain.
-<!-- 
-:rocket: I love all things SpaceX, Tesla, software, art, startups, and design and occassionally I blog about it <a href="https://jessicajane.us14.list-manage.com/subscribe?u=2b6e6ecea769fea2cf7679642&id=f673055bf2" target="_blank">here</a>  -->
+:briefcase: I'm currently building SaaS solutions with a focus on finance and supply-chain.
 
-:art: I collaborate on projects for fun at <a href="https://www.thebitfoundry.net">@thebitfoundry</a>
+:alien: I love all things creative, ingenious and mystical about humanity and working at the intersection of software, science, society and design. Occassionally, <a href="https://jessicajane.us14.list-manage.com/subscribe?u=2b6e6ecea769fea2cf7679642&id=f673055bf2" target="_blank">I write about it here</a>
+
+:art: I am always learning more about programming, IoT, and design and collaborate on projects for fun at <a href="https://www.thebitfoundry.net">@thebitfoundry</a>
 
 :globe_with_meridians: You can send me a message <a href="mailto:jessica@thebitfoundry.net" target="_blank"> here</a>
 
