@@ -1,4 +1,4 @@
-## <h3 align="center">Hi, Welcome to my GitHub!</h3>
+## <h3 align="center">Welcome to my GitHub!</h3>
 
 I’m a product-focused software engineer and product designer specializing in front-end development, system design, data analysis and data visualization. I love user centric design, and building products that solve real problems. :earth_africa: I’m passionate about how data impacts enterprise and the individual, and the interface of human, machine and biological intelligence. 
 
@@ -22,5 +22,5 @@ I’m a product-focused software engineer and product designer specializing in f
 
 ## Just for fun :chart_with_upwards_trend:
 
-[![Jess's GitHub stats](https://github-readme-stats.vercel.app/api?username=scifae&theme=dark)](https://github.com/scifae/github-readme-stats)
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=scifae&layout=compact&theme=dark" alt="Jessica Jane"/>
+[![Jess's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsjessicajane&theme=dark)](https://github.com/scifae/github-readme-stats)
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsjessicajane&layout=compact&theme=dark" alt="Jessica Jane"/>
