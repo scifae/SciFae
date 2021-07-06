@@ -1,11 +1,6 @@
 ## <h3 align="center">Welcome to my GitHub!</h3>
 
-I’m a product-focused software engineer and product designer specializing in front-end development, system design, data analysis and data visualization. I love user centric design, and building products that solve real problems. :earth_africa: I’m passionate about how data impacts enterprise and the individual, and the interface of human, machine and biological intelligence. 
-
-<p align="center">
-  <a href="https://jessicajane.org" rel="nofollow">About</a>  •
-  <a href="https://www.linkedin.com/in/jessica-k/" rel="nofollow">LinkedIn</a>
-</p>
+I’m a product-focused software engineer and product designer specializing in front-end development, system design, data analysis and data visualization. I love user centric design, and building products that solve real problems. :earth_africa: I’m passionate about how data impacts enterprise and the individual, and the interface of human, machine and biological intelligence.
 
 :briefcase: I'm currently building SaaS solutions with a focus on finance and supply-chain.
 
@@ -13,7 +8,7 @@ I’m a product-focused software engineer and product designer specializing in f
 
 :art: I am always learning more about programming, IoT, and design and collaborate on projects for fun at <a href="https://www.thebitfoundry.net">@thebitfoundry</a>
 
-:globe_with_meridians: You can send me a message <a href="mailto:jessica@thebitfoundry.net" target="_blank"> here</a>
+:globe_with_meridians: You can send me an email <a href="mailto:jessica@thebitfoundry.net" target="_blank"> here</a>
 
 ## Current Stack :zap:
 
