@@ -1,14 +1,12 @@
 ## <h3 align="center">Welcome to my GitHub!</h3>
 
-I’m a product-focused software engineer and product designer specializing in front-end development, system design, data analysis and data visualization. I love user centric design, and building products that solve real problems. :earth_africa: I’m passionate about how data impacts enterprise and the individual, and the interface of human, machine and biological intelligence.
+I’m a product-focused software engineer specializing in front-end development, system design, data analysis and data visualization. I love user centric design, and building products that solve real problems. :earth_africa: I’m passionate about how data impacts enterprise and the individual, and the interface of human, machine and biological intelligence.
 
 :briefcase: I'm currently building SaaS solutions with a focus on finance and supply-chain.
 
-:alien: I love all things creative, ingenious and mystical about humanity and working at the intersection of software, science, society and design. Occassionally, <a href="https://jessicajane.us14.list-manage.com/subscribe?u=2b6e6ecea769fea2cf7679642&id=f673055bf2" target="_blank">I write about it here</a>
+:alembic: I love all things creative, ingenious and mystical about humanity and working at the intersection of software, science, society and design. Occassionally, <a href="https://jessicajane.us14.list-manage.com/subscribe?u=2b6e6ecea769fea2cf7679642&id=f673055bf2" target="_blank">I write about it</a>.
 
-:art: I am always learning more about programming, IoT, and design and collaborate on projects for fun at <a href="https://www.thebitfoundry.net">@thebitfoundry</a>
-
-:globe_with_meridians: You can send me an email <a href="mailto:jessica@thebitfoundry.net" target="_blank"> here</a>
+:art: I am always learning more about programming, IoT, nature, people and design, and collaborate on projects for fun at <a href="https://www.thebitfoundry.net">@thebitfoundry</a> :globe_with_meridians: Want to work with me? Send me an email <a href="mailto:jessica@thebitfoundry.net" target="_blank"> here</a>.
 
 ## Current Stack :zap:
 
